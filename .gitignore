@@ -1,6 +1,5 @@
-HELP.md 
+HELP.md
 
-### Gradle ###
 gradle/
 gradlew
 gradlew.bat
