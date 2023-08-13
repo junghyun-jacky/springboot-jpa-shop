@@ -12,5 +12,5 @@ public class MemberForm {
 
     private String city;
     private String street;
-    private String zipecode;
+    private String zipcode;
 }
